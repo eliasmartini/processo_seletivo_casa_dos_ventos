@@ -11,6 +11,7 @@ O projeto foi desenvolvido como parte de um processo seletivo e demonstra habili
 
 - `main.py`: Script principal para consulta da API, tratamento de dados e geração do CSV final.
 - `data.csv`: Arquivo CSV com os dados tratados dos aerogeradores.
+- `exploratory_analysis.ipynb`: Notebook Python com a análise exploratória dos dados.
 
 ## Funcionalidades
 
