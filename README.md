@@ -27,3 +27,7 @@ O projeto foi desenvolvido como parte de um processo seletivo e demonstra habili
 
 3. **Exportação**  
    - Geração do arquivo `data.csv` contendo todos os registros tratados.
+
+## Links
+   - Tableau: https://public.tableau.com/views/case_Elias_Martini/Dashboard?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+   - Google Slides: https://docs.google.com/presentation/d/17vjMTyLXA0di9TopEksoOUCEbXG13GhSVTO-8V8o8wQ/edit?usp=sharing
